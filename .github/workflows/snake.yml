@@ -1,8 +1,4 @@
-Now, let's add the GitHub Snake Game workflow file:
-
-```yml project="GitHub Profile README" file=".github/workflows/snake.yml" type="code"
 name: GitHub Snake Game
-
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
@@ -13,7 +9,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
