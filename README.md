@@ -257,16 +257,16 @@ const pranav = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranaavvvv/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranaavvvv/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pranaavvvv/output/github-snake.svg" />
   </picture>
   
   <br/>
   <br/>
   
   <picture>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/ocean.gif"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranaavvvv/output/ocean.gif"/>
   </picture>
 </div>
 
@@ -320,4 +320,3 @@ You can check out the workflow file in `.github/workflows/snake.yml` in my repos
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
-```
