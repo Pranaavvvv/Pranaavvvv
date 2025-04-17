@@ -42,9 +42,9 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-I'm a passionate Computer Engineering student with a love for creating innovative solutions through code. My journey in tech is driven by curiosity and a desire to make a meaningful impact.
+I'm a passionate Information technology student with a love for creating innovative solutions through code. My journey in tech is driven by curiosity and a desire to make a meaningful impact.
 
-- 🎓 Currently pursuing my **Computer Engineering** degree at **DJ Sanghvi College** (2nd Year)
+- 🎓 Currently pursuing my **Information technology** degree at **DJ Sanghvi College** (2nd Year)
 - 🚀 Exploring the vast worlds of **Full Stack Development** and **Machine Learning**
 - 🎨 Dedicated to crafting beautiful and intuitive **UI/UX experiences**
 - ✍️ Avid **content writer** who enjoys publishing blogs and poetry
@@ -58,7 +58,7 @@ I'm a passionate Computer Engineering student with a love for creating innovativ
 
 ```javascript
 const pranav = {
-  education: "Computer Engineering @ DJ Sanghvi College",
+  education: "Information technology @ DJ Sanghvi College",
   codingInterests: ["Web Development", "Machine Learning", "UI/UX Design"],
   currentlyLearning: ["React.js", "Node.js", "TensorFlow"],
   goalsFor2023: "Build a portfolio of full-stack projects and contribute to open source",
