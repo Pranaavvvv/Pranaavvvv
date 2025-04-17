@@ -56,7 +56,7 @@ I'm a passionate Computer Engineering student with a love for creating innovativ
 <summary><b>✨ More about my coding journey</b></summary>
 <br>
 
-\`\`\`javascript
+```javascript
 const pranav = {
   education: "Computer Engineering @ DJ Sanghvi College",
   codingInterests: ["Web Development", "Machine Learning", "UI/UX Design"],
@@ -64,7 +64,7 @@ const pranav = {
   goalsFor2023: "Build a portfolio of full-stack projects and contribute to open source",
   funFact: "I can debug code and write poetry with equal enthusiasm!"
 };
-\`\`\`
+```
 
 </details>
 
@@ -250,10 +250,47 @@ const pranav = {
   <img alt="Pranav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranaavvvv&theme=tokyo-night&hide_border=true" />
 </a>
 
-<!-- Snake Animation -->
+<!-- Snake Animation Section -->
+<h2>
+  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="35"> GitHub Contribution Snake
+</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake.svg" />
+  </picture>
+  
+  <br/>
+  <br/>
+  
+  <picture>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/ocean.gif"/>
+  </picture>
 </div>
+
+<!-- GitHub Snake Game Workflow Information -->
+<details>
+<summary><b>🐍 About the GitHub Snake Animation</b></summary>
+<br>
+
+The snake animation above is generated using GitHub Actions workflow that runs daily. It creates a snake game animation based on my GitHub contribution graph!
+
+### How it works:
+1. A GitHub Action runs daily to capture my contribution graph
+2. It generates a snake animation that "eats" the contribution squares
+3. The animation is automatically pushed to the 'output' branch
+4. The README displays the latest animation from that branch
+
+### Technologies used:
+- GitHub Actions for automation
+- [Platane/snk](https://github.com/Platane/snk) for generating the snake animation
+- SVG and GIF formats for different visual styles
+
+You can check out the workflow file in `.github/workflows/snake.yml` in my repository!
+
+</details>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -283,4 +320,53 @@ const pranav = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
-\`\`\`
+```
+
+Now, let's add the GitHub Snake Game workflow file:
+
+```yml project="GitHub Profile README" file=".github/workflows/snake.yml" type="code"
+name: GitHub Snake Game
+
+on:
+  # Schedule the workflow to run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          # GitHub username to generate the animation for
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"
