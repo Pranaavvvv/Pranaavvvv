@@ -49,13 +49,12 @@
 </h2>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td width="60%">
         <p align="left">
           I'm a passionate Computer Engineering student with a love for creating innovative solutions through code. My journey in tech is driven by curiosity and a desire to make a meaningful impact.
         </p>
-        
         <ul align="left">
           <li>
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" align="center"/> 
@@ -95,7 +94,7 @@
   <br>
   
   <div align="center">
-    <table border="0">
+    <table>
       <tr>
         <td width="50%">
           <pre>
@@ -150,7 +149,7 @@
 </h3>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -183,7 +182,7 @@
 </h3>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
@@ -246,7 +245,7 @@
 </h2>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td width="50%" align="center">
         <h3>Project Name 1</h3>
@@ -303,7 +302,7 @@
 </h2>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td width="50%" align="right">
         <h3>2021</h3>
@@ -345,7 +344,7 @@
 </h2>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td width="33%" align="center">
         <img src="https://img.shields.io/badge/-Machine%20Learning-FF5F6D?style=for-the-badge" alt="Machine Learning" />
@@ -485,3 +484,4 @@
 
 <!-- Footer with Animated Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=80&fontColor=white&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" width="100%"/>
+```
