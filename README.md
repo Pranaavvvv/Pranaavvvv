@@ -214,48 +214,6 @@ const pranav = {
   <img alt="Pranav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranaavvvv&theme=tokyo-night&hide_border=true" />
 </a>
 
-<!-- Snake Animation Section -->
-<h2>
-  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="35"> GitHub Contribution Snake
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/github-snake.svg" />
-  </picture>
-  
-  <br/>
-  <br/>
-  
-  <picture>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranaavvvv/Pranaavvvv/output/ocean.gif"/>
-  </picture>
-</div>
-
-<!-- GitHub Snake Game Workflow Information -->
-<details>
-<summary><b>🐍 About the GitHub Snake Animation</b></summary>
-<br>
-
-The snake animation above is generated using GitHub Actions workflow that runs daily. It creates a snake game animation based on my GitHub contribution graph!
-
-### How it works:
-1. A GitHub Action runs daily to capture my contribution graph
-2. It generates a snake animation that "eats" the contribution squares
-3. The animation is automatically pushed to the 'output' branch
-4. The README displays the latest animation from that branch
-
-### Technologies used:
-- GitHub Actions for automation
-- [Platane/snk](https://github.com/Platane/snk) for generating the snake animation
-- SVG and GIF formats for different visual styles
-
-You can check out the workflow file in `.github/workflows/snake.yml` in my repository!
-
-</details>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
