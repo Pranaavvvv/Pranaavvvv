@@ -140,25 +140,6 @@ const pranav = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Featured Projects with Visual Cards -->
-<h2>
-  <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="35"> Featured Projects
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Pranaavvvv/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranaavvvv&repo=project1&theme=radical&hide_border=true&bg_color=0D1117" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Pranaavvvv/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranaavvvv&repo=project2&theme=radical&hide_border=true&bg_color=0D1117" alt="Project 2" />
-  </a>
-</div>
-
-<!-- Replace project1 and project2 with your actual repository names -->
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Learning Journey with Visual Timeline -->
 <h2>
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width="35"> Learning Journey
@@ -220,23 +201,6 @@ const pranav = {
     </tr>
   </table>
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Blog Posts Section -->
-<h2>
-  <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="35"> Latest Blog Posts
-</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Machine Learning Model to Predict Stock Prices](https://yourblog.com/ml-stock-prediction)
-- [The Future of Web Development: My Thoughts on Next.js](https://yourblog.com/nextjs-future)
-- [5 UI/UX Principles Every Developer Should Know](https://yourblog.com/uiux-principles)
-- [My Journey Learning Full Stack Development](https://yourblog.com/fullstack-journey)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://yourblog.com)
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
