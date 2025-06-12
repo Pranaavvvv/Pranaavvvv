@@ -1,16 +1,7 @@
 <div align="center">
-  <!-- Animated Header Banner using GIF -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranav%20Dharwadkar&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
-  
-  <!-- Animated Hand Wave -->
-  <h1>
-    Hey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50px" height="50px"/>
-  </h1>
-
+ 
   <!-- Advanced Typing Effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Tech+Enthusiast+%F0%9F%92%BB;Creative+Web+Developer+%F0%9F%9A%80;Content+Writer+%F0%9F%93%9D;Lifelong+Learner+%F0%9F%93%9A;Machine+Learning+Explorer+%F0%9F%94%AC;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Pranav+Dharwadkar+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Content+Writer+%F0%9F%93%9D;Lifelong+Learner+%F0%9F%93%9A;Machine+Learning+Explorer+%F0%9F%94%AC;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" /></a>
   
   <!-- Profile Views Counter with Animation -->
   <img src="https://komarev.com/ghpvc/?username=Pranaavvvv&style=for-the-badge&color=brightgreen" alt="Profile views" />
@@ -22,12 +13,6 @@
     </a>
     <a href="mailto:pranav.dharwadkar@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://twitter.com/your-twitter-handle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://github.com/Pranaavvvv">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </div>
 </div>
@@ -238,8 +223,4 @@ const pranav = {
   </h3>
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
-</div>
-```
+
