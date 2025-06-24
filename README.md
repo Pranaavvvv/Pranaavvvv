@@ -3,10 +3,10 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Pranaavvvv&style=for-the-badge&color=brightgreen" alt="Profile views" />
   <div>
-    <a href="https://pranav-portfolio.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pranav--portfolio.com-brightgreen?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
+    <a href="https://pranaavvvvv-delta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pranav--portfolio.com-brightgreen?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
     <a href="mailto:pranav.djsce24@gmail.com"><img src="https://img.shields.io/badge/Email-pranav.djsce24@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/pranaavvvv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/pranavdharwadkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="[https://www.linkedin.com/in/pranav-dharwadkar-7051b4293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
   </div>
   <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 32px 0;" />
 </div>
@@ -23,7 +23,7 @@ I'm a passionate Information Technology student with a love for creating innovat
   <tr>
     <td>
       <ul>
-        <li>🎓 Pursuing a B.Tech in Information Technology at <b>D.J. Sanghvi College of Engineering</b> (2022-2026).</li>
+        <li>🎓 Pursuing a B.Tech in Information Technology at <b>D.J. Sanghvi College of Engineering</b> (2023-2027).</li>
         <li>🚀 Exploring the vast worlds of <b>Full Stack Development</b> and <b>Machine Learning</b>.</li>
         <li>💡 I thrive on building intelligent systems that solve complex problems.</li>
         <li>🎨 Dedicated to crafting beautiful, intuitive <b>UI/UX experiences</b>.</li>
