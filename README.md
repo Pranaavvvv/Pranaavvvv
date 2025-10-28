@@ -258,40 +258,12 @@ I'm a passionate Information Technology student with a love for creating innovat
 </div>
 
 <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 32px 0;" />
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranaavvvv&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-  <br>
-  <a href="https://github.com/Pranaavvvv">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pranaavvvv&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=Pranaavvvv&theme=radical&background=0D1117&hide_border=true" height="150" alt="GitHub Streak" />
-  </a>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranaavvvv&custom_title=Pranav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 32px 0;" />
-
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Get In Touch
-
-<div align="center">
-  <p>I'm always open to interesting conversations, collaboration opportunities, and innovative projects.</p>
-  
-  <a href="https://www.linkedin.com/in/pranav-dharwadkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pranav.dharwadkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pranav.dharwadkar@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <br><br>
   
 <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 32px 0;" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
 </div>
+
 
 
